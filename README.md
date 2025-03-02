@@ -6,7 +6,7 @@ I'm a Cybersecurity Analyst and Marine Corps veteran. I've been working in IT fo
 <h2> My Projects</h2>
 <b> Powershell</b>  
 
-  - [Windows Enumeration Tool](https://github.com/forevercheekz/WindowsEnum)
+  - [Windows Enumeration Tool](https://github.com/JFlint1996/WindowsEnum)
 
 <h2> Publications </h2>
 
