@@ -1,6 +1,10 @@
 <h1>Hi, I'm Joseph! <br/><a href="https://github.com/forevercheekz"> Security Analyst</a>,<a href="https://www.linkedin.com/in/jflint96/"> Offsec Enthusiest </a>
-<h2> My Projects</h2>
 
+<h2> About me </h2>
+I'm a Cybersecurity Analyst and Marine Corps veteran. I've been working in IT for a little over a decade with multiple years being in Cybersecurity. I'm looking to enter offensive security and have several industry certifications from my Bachelors of Applied Cybersecurity at SANS Technology Institute. Let's connect if you want to know more!
+  
+<h2> My Projects</h2>
+* https://github.com/forevercheekz/WindowsEnum
 
 <h2> Publications </h2>
 
